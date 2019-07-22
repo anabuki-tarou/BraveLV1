@@ -1,0 +1,36 @@
+﻿2019/07/19 9:59:25 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\ifuu\Documents\Visual Studio 2013\Projects\ttt\chap5+.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Enemy.cpp EnemyMover.cpp game.cpp game_screen.cpp player.cpp
+         player.cpp
+         コードを生成中...
+         コンパイル中...
+         game_screen.cpp
+         game.cpp
+         コードを生成中...
+         スキップ中... (関連する変更は検出されませんでした)
+         EnemyMover.cpp
+         Enemy.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ifuu\Documents\Visual Studio 2013\Projects\ttt\Debug\chap5+.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\c++\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ifuu\Documents\Visual Studio 2013\Projects\ttt\Debug\chap5+.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ifuu\Documents\Visual Studio 2013\Projects\ttt\Debug\chap5+.lib" /MACHINE:X86 Debug\Enemy.obj
+         Debug\EnemyMover.obj
+         Debug\game.obj
+         Debug\gameclear_screen.obj
+         Debug\gameload_screen.obj
+         Debug\gameoption_screen.obj
+         Debug\gameover_screen.obj
+         Debug\gametitle_screen.obj
+         Debug\game_screen.obj
+         Debug\global.obj
+         Debug\item.obj
+         Debug\main.obj
+         Debug\map.obj
+         Debug\myLib.obj
+         Debug\player.obj
+         Debug\win_main.obj
+         chap5+.vcxproj -> C:\Users\ifuu\Documents\Visual Studio 2013\Projects\ttt\Debug\chap5+.exe
+     1>プロジェクト "C:\Users\ifuu\Documents\Visual Studio 2013\Projects\ttt\chap5+.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:03.93
